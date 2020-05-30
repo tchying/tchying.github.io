@@ -25,4 +25,4 @@ twitter_url: https://twitter.com/andrewbanchich
 markdown: kramdown
 
 # theme: jekyll-theme-hacker
-remote_theme: andrewbanchich/identity-jekyll-theme
+remote_theme: tchying/identity-jekyll-theme
