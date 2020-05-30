@@ -1,19 +1,16 @@
 # Site settings
-title: TCHYING
+title: Thomas Ying
 email: tchying@gmail.com
-description: The Jekyll version of the Identity theme by HTML5 UP.
+description: Thomas Ying's personal website
 # baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site
 
 # Identity
-your-name: TCHYING
+your-name: Thomas Ying
 your-title: Civil Engineering Student
 
 # Social settings
-
-pinterest_url: https://www.google.ca
-
-linkedin_url: https://www.google.com
+linkedin_url: https://www.linkedin.com/in/tchying
 
 # Build settings
 markdown: kramdown
