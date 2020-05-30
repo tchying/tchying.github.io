@@ -1,16 +1,15 @@
 # Site settings
-title: T
-email: youremailaddress@gmail.com
+title: TCHYING
+email: tchying@gmail.com
 description: The Jekyll version of the Identity theme by HTML5 UP.
 # baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site
 
 # Identity
-your-name: T
+your-name: TCHYING
 your-title: Civil Engineering Student
 
 # Social settings
-500px_url: https://i.redd.it/umkd6yrj7t151.jpg
 
 pinterest_url: https://www.google.ca
 
