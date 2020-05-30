@@ -12,10 +12,9 @@ your-title: Civil Engineering Student
 # Social settings
 home_url: 
 portfolio_url:
-resume_url: 
 blog_url: 
+resume_url: 
 linkedin_url: https://www.linkedin.com/in/tchying
-github_url: https://github.com/tchying
 
 # Build settings
 markdown: kramdown
