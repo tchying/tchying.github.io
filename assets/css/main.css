@@ -860,6 +860,7 @@
      display: none;
 }
 .fa-home:hover  ~ .e-1 {
+     <p>Home</p>
      display: block;
 }
 .fa-folder-open:hover  ~ .e-2{
