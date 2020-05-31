@@ -854,3 +854,17 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+/* Hover */
+.element-1, .element-2, .element-3{
+     display: none;
+}
+.a-1:hover  ~ .element-1 {
+     display: block;
+}
+.a-2:hover  ~ .element-2{
+     display: block;
+}
+.a-3:hover  ~ .element-3 {
+     display: block;
+}
