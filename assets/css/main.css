@@ -854,24 +854,3 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
-
-/* Hover */
-.e-1, .e-2, .e-3, .e-4, .e-5{
-     display: none;
-}
-.a-1:hover  ~ .e-1 {
-     <p>Home</p>
-     display: block;
-}
-.a-2:hover  ~ .e-2{
-     display: block;
-}
-.a-3:hover  ~ .e-3 {
-     display: block;
-}
-.a-4:hover  ~ .e-4 {
-     display: block;
-}
-.a-5:hover  ~ .e-5 {
-     display: block;
-}
