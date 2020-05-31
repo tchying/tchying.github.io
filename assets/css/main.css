@@ -859,19 +859,19 @@
 .e-1, .e-2, .e-3, .e-4, .e-5{
      display: none;
 }
-.fa-home:hover  ~ .e-1 {
+.a-1:hover  ~ .e-1 {
      <p>Home</p>
      display: block;
 }
-.fa-folder-open:hover  ~ .e-2{
+.a-2:hover  ~ .e-2{
      display: block;
 }
-.fa-pencil:hover  ~ .e-3 {
+.a-3:hover  ~ .e-3 {
      display: block;
 }
-.fa-file-o:hover  ~ .e-4 {
+.a-4:hover  ~ .e-4 {
      display: block;
 }
-.fa-linkedin:hover  ~ .e-5 {
+.a-5:hover  ~ .e-5 {
      display: block;
 }
