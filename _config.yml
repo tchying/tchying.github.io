@@ -15,6 +15,4 @@ linkedin_url: https://www.linkedin.com/in/tchying
 
 # Build settings
 markdown: kramdown
-
-# theme: jekyll-theme-hacker
 remote_theme: tchying/identity-jekyll-theme
