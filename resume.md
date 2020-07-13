@@ -4,7 +4,7 @@ title: Résumé
 permalink: /resume/
 ---
 
-<iframe src="/Contract.pdf" title="W3Schools Free Online Web Tutorials">
+<iframe src="/Contract.pdf" width="100%" height="100%" style="border:none;">
 </iframe>
 
 # Name
