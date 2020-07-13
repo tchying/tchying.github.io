@@ -4,4 +4,4 @@ title: Résumé
 permalink: /resume/
 ---
 
-(/Contract.png)
+(https://octodex.github.com/images/yaktocat.png)
