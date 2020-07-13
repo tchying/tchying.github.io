@@ -5,8 +5,7 @@ permalink: /resume/
 ---
 
 # Name
-Info, L-A
-Info L-A
+Info (L-A)
 ***
 ## Smaller Heading
 * Thing 1
