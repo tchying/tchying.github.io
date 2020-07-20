@@ -10,10 +10,10 @@ permalink: /resume/
 </object>
 -->
 
-#### Thomas Ying
+## Thomas Ying
 example@example.com / 555-666-7777
 ***
-#### SUMMARY OF QUALIFICATIONS
+## SUMMARY OF QUALIFICATIONS
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * Aliquam in nisi nisi
 * Vestibulum vel lectus ultricies lorem commodo aliquet euismod a enim
@@ -22,7 +22,7 @@ example@example.com / 555-666-7777
 * Proin quis tempor mauris
 * Praesent sit amet leo quis felis convallis ultricies sit amet at est
 
-#### EDUCATION
+## EDUCATION
 CANDIDATE FOR BACHELOR OF APPLIED PSEUDOSCIENCE, UNCIVIL ENGINEERING
 School of Rock, New York, New York, New York
 [Abc. 2079 – Present]
