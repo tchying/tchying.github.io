@@ -213,6 +213,7 @@
 		font-size: 1em;
 		text-transform: none;
 		text-align: left;
+		max-width: 684px;
 		word-wrap: normal;		
 	}
 
