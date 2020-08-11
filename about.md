@@ -11,9 +11,10 @@ permalink: /about/
 		text-transform: none;
 		text-align: left;
 		max-width: 392px;
-		word-wrap: normal;		
+		word-wrap: normal;
+		letter-spacing: -1px;
 		}
 	</style>
 </head>
 
-I'm a Civil Engineering student at the University of Waterloo. I will be in my 2A term in Fall 2020. [Click here to download my résumé.](/Resume.pdf)
+I'm a second-year Civil Engineering student at the University of Waterloo. [Click here to download my résumé.](/Resume.pdf)
