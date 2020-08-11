@@ -10,13 +10,17 @@ permalink: /about/
 </object>
 -->
 
-p {
+<head>
+	<style>
+		p {
 		font-size: 1em;
 		text-transform: none;
 		text-align: left;
 		max-width: 392px;
 		word-wrap: normal;		
-	}
+		}
+	</style>
+</head>
 
 #### Thomas Ying
 ##### example@example.com / 555-666-7777
