@@ -18,4 +18,4 @@ permalink: /about/
 
 I'm a second-year Civil Engineering student at the University of Waterloo. 
 
-<p style="text-align:center;">[Click here to download my résumé.](/Resume.pdf)</p>
+[Click here to download my résumé.](/Resume.pdf)
