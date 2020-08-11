@@ -205,16 +205,8 @@
 		font-size: 1.25em;
 	}
 
-	h3 {
+	h3, h4, h5, h6 {
 		font-size: 1em;
-	}
-
-	h4, h5, h6 {
-		font-size: 1em;
-		text-transform: none;
-		text-align: left;
-		max-width: 392px;
-		word-wrap: normal;		
 	}
 
 	@media screen and (max-width: 480px) {
