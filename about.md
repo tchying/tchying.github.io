@@ -1,7 +1,7 @@
 ---
 layout: pages
-title: Résumé
-permalink: /resume/
+title: About
+permalink: /about/
 ---
 
 <!--
