@@ -14,19 +14,3 @@ permalink: /about/
 ##### example@example.com / 555-666-7777
 ***
 #### SUMMARY OF QUALIFICATIONS
-##### * Lorem ipsum dolor sit amet, consectetur adipiscing elit
-##### * Aliquam in nisi nisi
-##### * Vestibulum vel lectus ultricies lorem commodo aliquet euismod a enim
-##### * Praesent at urna maximus, iaculis elit nec, congue diam
-##### * Duis feugiat sit amet turpis non pulvinar
-##### * Proin quis tempor mauris
-##### * Praesent sit amet leo quis felis convallis ultricies sit amet at est
-
-#### EDUCATION
-##### CANDIDATE FOR BACHELOR OF APPLIED PSEUDOSCIENCE, UNCIVIL ENGINEERING
-##### School of Rock, New York, New York, New York
-##### [Abc. 2079 – Present]
-##### * Relevant course: A Short History of Nearly Everything
-##### * Cras imperdiet commodo neque quis iaculis
-##### * Aliquam lobortis mi vel orci sagittis, eget vestibulum purus ullamcorper
-##### * Cras elementum eros eu lectus rutrum, quis scelerisque felis faucibus
