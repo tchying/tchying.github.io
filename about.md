@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<!--
-<object width="492" height="492" type="application/pdf" data="/Resume.pdf?#view=FitH&scrollbar=0&toolbar=0&navpanes=0">
-    <p><a href="/Resume.pdf">The PDF cannot be displayed. Click for alternate link.</a></p>
-</object>
--->
-
 <head>
 	<style>
 		p {
@@ -22,8 +16,4 @@ permalink: /about/
 	</style>
 </head>
 
-#### Thomas Ying
-##### example@example.com / 555-666-7777
-***
-#### SUMMARY OF QUALIFICATIONS
-Test
+I'm a Civil Engineering student at the University of Waterloo. I will be in my 2A term in Fall 2020.
