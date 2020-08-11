@@ -10,7 +10,16 @@ permalink: /about/
 </object>
 -->
 
+p {
+		font-size: 1em;
+		text-transform: none;
+		text-align: left;
+		max-width: 392px;
+		word-wrap: normal;		
+	}
+
 #### Thomas Ying
 ##### example@example.com / 555-666-7777
 ***
 #### SUMMARY OF QUALIFICATIONS
+Test
