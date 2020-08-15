@@ -21,7 +21,3 @@ Here are some things that I have done:
 - A
 - B
 - C
-
-- D
-
-- E
