@@ -7,7 +7,7 @@ permalink: /about/
 <head>
 	<style>
 		p {
-		font-size: 1em;
+		font-size: 0.9em;
 		text-transform: none;
 		text-align: left;
 		max-width: 392px;
