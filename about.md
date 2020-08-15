@@ -12,7 +12,6 @@ permalink: /about/
 		text-align: left;
 		max-width: 392px;
 		word-wrap: normal;
-		margin: 1em;
 		}
 	</style>
 </head>
