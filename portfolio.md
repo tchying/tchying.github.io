@@ -15,12 +15,12 @@ permalink: /portfolio/
 		}
 	</style>
 </head>
-<p>
+
 	
 Here are some things that I have done:
 
 - A
-- B
-- C
 
-</p>
+- B
+
+- C
