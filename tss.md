@@ -8,10 +8,10 @@ permalink: /portfolio/tss/
 
 <body>
 
-<p> Testing14 </p>
+<p> Testing15 </p>
 
-<img id="img01" src="/assets/images/TSS.png" alt="Total Stress Calculation Spreadsheet" style="width:100%;max-width:300px">
-<img id="img02" src="/assets/images/avatar.jpg" alt="Total Stress Calculation Spreadsheet" style="width:100%;max-width:300px">
+<img id="i1" src="/assets/images/TSS.png" alt="Total Stress Calculation Spreadsheet" style="width:100%;max-width:300px">
+<img id="i2" src="/assets/images/avatar.jpg" alt="Total Stress Calculation Spreadsheet" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
@@ -23,7 +23,7 @@ permalink: /portfolio/tss/
 <!-- The Modal -->
 <div id="myModal2" class="modal">
   <span class="close">&times;</span>
-  <img class="modal-content" id="img02">
+  <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
 
