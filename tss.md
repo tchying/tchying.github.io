@@ -8,9 +8,7 @@ permalink: /portfolio/tss/
 
 <body>
 
-<h2>Image Modal</h2>
-<p>In this example, we use CSS to create a modal (dialog box) that is hidden by default.</p>
-<p>We use JavaScript to trigger the modal and to display the current image inside the modal when it is clicked on. Also note that we use the value from the image's "alt" attribute as an image caption text inside the modal.</p>
+<p> Testing </p>
 
 <img id="myImg" src="/assets/images/TSS.png" alt="Snow" style="width:100%;max-width:300px">
 
