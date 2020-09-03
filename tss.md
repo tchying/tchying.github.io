@@ -10,7 +10,7 @@ permalink: /portfolio/tss/
 
 <p> Testing7 </p>
 
-<img id="myImg" src="/assets/images/TSS.png" alt="Total Stress Calculation Spreadsheet" style="width:90vw">
+<img id="myImg" src="/assets/images/TSS.png" alt="Total Stress Calculation Spreadsheet" style="max-width:100%">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
