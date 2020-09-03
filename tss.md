@@ -8,9 +8,9 @@ permalink: /portfolio/tss/
 
 <body>
 
-<p> Testing2 </p>
+<p> Testing3 </p>
 
-<img id="myImg" src="/assets/images/TSS.png" alt="Snow" style="width:100%;max-width:300px">
+<img id="myImg" src="/assets/images/TSS.png" alt="Total Stress Calculation Spreadsheet" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
