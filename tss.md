@@ -19,15 +19,6 @@ permalink: /portfolio/tss/
   <div id="caption"></div>
 </div>
 
-<img id="myIMG" src="/assets/images/avatar.jpg" alt="Total Stress Calculation Spreadsheet" style="width:100%;max-width:300px">
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-
 <script src="/assets/js/modal.js"></script>
 
 </body>
