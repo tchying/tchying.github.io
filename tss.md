@@ -9,7 +9,7 @@ permalink: /portfolio/tss/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
 
-<p> Testing17 </p>
+<p> Testing18 </p>
 
 <img id="myImg" src="/assets/images/TSS.png" alt="Total Stress Calculation Spreadsheet" style="width:100%;max-width:300px">
 
@@ -29,15 +29,15 @@ permalink: /portfolio/tss/
 
 <div class="w3-row-padding">
   <div class="w3-container w3-third">
-    <img src="/assets/images/TSS.png" style="width:100%;cursor:pointer" 
+    <img src="/assets/images/TSS.png" style="width:100%;max-width:300px;cursor:pointer" 
     onclick="onClick(this)" class="w3-hover-opacity">
   </div>
   <div class="w3-container w3-third">
-    <img src="/assets/images/avatar.jpg" style="width:100%;cursor:pointer" 
+    <img src="/assets/images/avatar.jpg" style="width:100%;max-width:300px;cursor:pointer" 
     onclick="onClick(this)" class="w3-hover-opacity">
   </div>
   <div class="w3-container w3-third">
-    <img src="img_mountains.jpg" style="width:100%;cursor:pointer" 
+    <img src="img_mountains.jpg" style="width:100%;max-width:300px:pointer" 
     onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 </div>
