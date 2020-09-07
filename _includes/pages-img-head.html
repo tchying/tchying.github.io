@@ -37,14 +37,15 @@ https://stackoverflow.com/questions/47798971/several-modal-images-on-page -->
 .modal {
   display: none;
   /* Hidden by default */
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
+  position: fixed;
   /* Stay in place */
   z-index: 5;
   /* Sit on top */
   padding-top: 100px;
   /* Location of the box */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   width: 80vw;
   height: 80vh;
   overflow: auto;
