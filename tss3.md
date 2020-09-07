@@ -16,3 +16,4 @@ permalink: /portfolio/tss3/
 <br>
 <img class="myImages" id="myImg" src="/assets/images/TSS.png" alt="Gerirangerfjord, Norway" style="width:100%;max-width:300px">
      
+<script src="/assets/js/modals_img.js"></script>    
