@@ -15,12 +15,4 @@ permalink: /portfolio/tss3/
 <img class="myImages" id="myImg" src="/assets/images/avatar.jpg" alt="Fishermen's cabins in Lofoten, Norway" style="width:100%;max-width:300px">
 <br>
 <img class="myImages" id="myImg" src="/assets/images/TSS.png" alt="Gerirangerfjord, Norway" style="width:100%;max-width:300px">
-
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-
-<script src="/assets/js/modals_img.js"></script>    
      
