@@ -10,11 +10,11 @@ permalink: /portfolio/tss3/
 
 <p> 16 </p>
 
-<img class="myImages" id="myImg" src="/assets/images/TSS.png" alt="Midnight sun in Lofoten, Norway" width="300" height="200">
+<img class="myImages" id="myImg" src="/assets/images/TSS.png" alt="Midnight sun in Lofoten, Norway" style="width:100%;max-width:300px">
 <br>
-<img class="myImages" id="myImg" src="/assets/images/avatar.jpg" alt="Fishermen's cabins in Lofoten, Norway" width="300" height="200">
+<img class="myImages" id="myImg" src="/assets/images/avatar.jpg" alt="Fishermen's cabins in Lofoten, Norway" style="width:100%;max-width:300px">
 <br>
-<img class="myImages" id="myImg" src="/assets/images/TSS.png" alt="Gerirangerfjord, Norway" width="300" height="200">
+<img class="myImages" id="myImg" src="/assets/images/TSS.png" alt="Gerirangerfjord, Norway" style="width:100%;max-width:300px">
 
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
