@@ -842,7 +842,3 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
-body.modal-open {
-    overflow: hidden;
-    position: fixed;
-}
