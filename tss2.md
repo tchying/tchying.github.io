@@ -8,7 +8,7 @@ permalink: /portfolio/tss2/
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
-<p>1</p>
+<p>2</p>
 
 
 <!-- Trigger/Open The Modal -->
@@ -26,10 +26,10 @@ permalink: /portfolio/tss2/
 
 </div>
 
-
+<div></div>
 
 <!-- Trigger/Open The Modal -->
-<img id="myImg2" src="/assets/images/TSS.png" alt="Total Stress Calculation Spreadsheet" style="width:100%;max-width:300px" class="myBtn">Open Modal1>
+<img id="myImg2" src="/assets/images/avatar.jpg" alt="Total Stress Calculation Spreadsheet" style="width:100%;max-width:300px" class="myBtn">Open Modal1>
 
 <!-- The Modal -->
 <div id="myModal2" class="modal">
