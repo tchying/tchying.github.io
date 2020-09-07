@@ -7,6 +7,7 @@ permalink: /portfolio/tss/
 [comment]: <> (https://stackoverflow.com/questions/47798971/several-modal-images-on-page)
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+#### Total Stress Spreadsheet
 
 As part of a project in my Earth Engineering course (CIVE 153), I created a spreadsheet that calculated the total stress at 150 points above, inside, and below an earthen embankment. 
 
