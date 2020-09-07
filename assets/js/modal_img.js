@@ -9,9 +9,9 @@ var btn = document.getElementsByClassName("myBtn");
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close");
 
-var img = document.getElementsByClassName("myImg");
+var img = document.document.getElementById("myImg");
 var modalImg = document.getElementsByClassName("img01");
-var captionText = document.getElementsByClassName("caption");
+var captionText = document.document.getElementById("caption");
 
 // When the user clicks the button, open the modal 
 btn[0].onclick = function() {
