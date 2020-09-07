@@ -9,7 +9,7 @@ permalink: /portfolio/tss3/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
 
-<p> 2 </p>
+<p> 3 </p>
 
 <img class="myImages" id="myImg" src="/assets/images/TSS.png" alt="Midnight sun in Lofoten, Norway" width="300" height="200">
 <br>
