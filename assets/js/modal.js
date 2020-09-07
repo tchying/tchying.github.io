@@ -32,10 +32,3 @@ span[0].onclick = function() {
 span[1].onclick = function() { 
   modal[1].style.display = "none";
 }
-
-// Click outside
-window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
