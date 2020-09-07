@@ -12,9 +12,9 @@ permalink: /portfolio/tss3/
 <p> 2 </p>
 
 <img class="myImages" id="myImg" src="/assets/images/TSS.png" alt="Midnight sun in Lofoten, Norway" width="300" height="200">
-
+<br>
 <img class="myImages" id="myImg" src="/assets/images/avatar.jpg" alt="Fishermen's cabins in Lofoten, Norway" width="300" height="200">
-
+<br>
 <img class="myImages" id="myImg" src="/assets/images/TSS.png" alt="Gerirangerfjord, Norway" width="300" height="200">
 
 <div id="myModal" class="modal">
