@@ -4,7 +4,6 @@
 {% include pages-img-head.html %}
    
 <body class="is-loading">
-{% include pages-header.html %}
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
@@ -12,6 +11,8 @@
 </div>
 
 <script src="/assets/js/modals_img.js"></script>    
+{% include pages-header.html %}
+
 {{ content }}
 {% include pages-footer.html %}
 </body>
