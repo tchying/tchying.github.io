@@ -1,7 +1,7 @@
 ---
 layout: pages-img
 title: Portfolio - Total Stress Spreadsheet
-permalink: /portfolio/tss3/
+permalink: /portfolio/tss/
 ---
 
 [comment]: <> (https://stackoverflow.com/questions/47798971/several-modal-images-on-page)
