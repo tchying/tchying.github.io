@@ -26,6 +26,11 @@ It should be noted that, rather than using the upper bound of the "next" materia
 The data was used to generate plots of lithostatic stresses in MATLAB for each scenario. The script to do so was provided by Professor Robert McKillop of the Department of Civil and Environmental Engineering.
 
 <img class="myImages" id="myImg" src="/assets/images/Before Construction.png" style="width:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
+<div class="overlay">
+    <a href="#" class="icon">
+      <i class="fas fa-search-plus"></i>
+    </a>
+</div>
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
 <br>
 <img class="myImages" id="myImg" src="/assets/images/Normal Conditions.png" style="width:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
