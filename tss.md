@@ -19,6 +19,6 @@ Then, this was replicated two additional times for pre-construction, post-constr
 <img class="myImages" id="myImg" src="/assets/images/TSS.png" style="width:100%;max-width:300px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
 
-
+To calculate the total stress at each point, the 
 
 <script src="/assets/js/modal.js"></script>    
