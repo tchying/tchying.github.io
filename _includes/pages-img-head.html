@@ -113,5 +113,30 @@ https://stackoverflow.com/questions/47798971/several-modal-images-on-page -->
     width: 100%;
   }
 }
+	
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.icon {
+  color: #eee;
+  font-size: 50px;
+  position: absolute;
+  top: 80%;
+  left: 80%;
+  text-align: center;
+}
 </style>
 </head>
