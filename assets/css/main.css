@@ -702,10 +702,10 @@
 		cursor: default;
 		opacity: 0.95;
 		text-align: center;
-		-moz-transform-origin: 50% 50%;
-		-webkit-transform-origin: 50% 50%;
-		-ms-transform-origin: 50% 50%;
-		transform-origin: 50% 50%;
+		-moz-transform-origin: 50% 50vh;
+		-webkit-transform-origin: 50% 50vh;
+		-ms-transform-origin: 50% 50vh;
+		transform-origin: 50% 50vh;
 		-moz-transform: rotateX(0deg);
 		-webkit-transform: rotateX(0deg);
 		-ms-transform: rotateX(0deg);
