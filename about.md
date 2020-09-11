@@ -9,4 +9,4 @@ I'm a second-year Civil Engineering student at the University of Waterloo. Curre
 
 [Click here to download my résumé.](/Resume.pdf)
 
->>>
+<p style="align:right">></p>
