@@ -1,7 +1,7 @@
 ---
 layout: pages-img
 title: Portfolio - Backyard Survey
-permalink: /portfolio/bkyds/
+permalink: /portfolio/bkyrds/
 ---
 
 [comment]: <> (https://stackoverflow.com/questions/47798971/several-modal-images-on-page)
