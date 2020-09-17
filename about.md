@@ -9,4 +9,4 @@ I'm a second-year Civil Engineering student at the University of Waterloo. Curre
 
 [Click here to download my résumé.](/Resume.pdf)
 
-In my spare time, I enjoy cooking edible* food, playing retro and contemporary video games, and adding random bits of HTML/&#8203;CSS/&#8203;JS to perfectly good website templates.
+Outside of school and the endless job search, I enjoy cooking, playing a weird variety of video games, and adding random bits of HTML/&#8203;CSS/&#8203;JS to perfectly good website templates.
