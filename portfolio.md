@@ -10,7 +10,7 @@ Here are some things that I have worked on.
 Schoolwork:
 <ul class="body">
   <li><a href="/portfolio/tss/">Total Stress Spreadsheet</a></li>
-  <li><a href="/portfolio/topo/">Topographical Map</a></li>
+  <li><a href="/portfolio/topo/">Topographical Plan</a></li>
 </ul>
 
 Personal Projects:
