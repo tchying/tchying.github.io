@@ -9,7 +9,7 @@ permalink: /portfolio/bkyrds/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 #### Backyard Survey
 
-This is the result of a little project I did over the summer.
+I did a partial survey of my backyard. 
 
 <img class="myImages" id="myImg" src="/assets/images/IncBacSurv.png" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
@@ -29,6 +29,6 @@ Flags were placed in a grid, two feet apart. Although everything else was measur
 <img class="myImages" id="myImg" src="/assets/images/Flags.jpg" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
 
-
+At each point marked by a flag, the level was held upright and as vertical as possible. Only one axis could be checked due to the configuration of the bubble levels. Then, the laser pointer was oriented towards the level and the reading was recorded.
 
 <script src="/assets/js/modal.js"></script> 
