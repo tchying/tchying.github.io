@@ -9,3 +9,8 @@ permalink: /portfolio/topo/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 #### Topographical Plan
 This topographic plan was created as a component of a preliminary design report in my Civil Engineering Concepts (CIVE 100) course.
+
+<img class="myImages" id="myImg" src="/assets/images/Topo.png" style="width:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
+<p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
+
+<script src="/assets/js/modal.js"></script>   
