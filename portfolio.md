@@ -15,6 +15,6 @@ Schoolwork:
 
 Personal Projects:
 <ul class="body">
-  <li><a href="/portfolio/bkyrds/">Backyard Survey (Work-in-Progress)</a></li>
+  <li><a href="/portfolio/bkyrds/">Backyard Survey</a></li>
   <li><a href="/portfolio/bdrmrd/">Bedroom Redesign</a></li>
 </ul>
