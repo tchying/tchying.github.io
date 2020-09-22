@@ -31,4 +31,6 @@ Flags were placed in a grid, two feet apart. Although everything else was measur
 
 At each point marked by a flag, the level was held upright and as vertical as possible. Only one axis could be checked due to the configuration of the bubble levels. Then, the laser pointer was oriented towards the level and the reading was recorded.
 
+(Page remains under construction)
+
 <script src="/assets/js/modal.js"></script> 
