@@ -33,7 +33,7 @@ At each point marked by a flag, the level was held upright and as vertical as po
 
 Each point's location (x-y) was defined by their position relative to a point near the tripod. I used an arbitrary base elevation, as I only cared about the elevations relative to each other. The data was organized in a spreadsheet, saved to a CSV in PENZD format, and then imported into Civil 3D 2021.
 
-<img class="myImages" id="myImg" src="/assets/images/Spreadsheet-Points.png" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
+<img class="myImages" id="myImg" src="/assets/images/Spreadsheet-Points.png" style="width:90%;height:90%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
 
 (Page remains under construction)
