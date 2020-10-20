@@ -9,7 +9,7 @@ permalink: /portfolio/bkyrds/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 #### Backyard Survey
 
-I did a partial survey of my backyard. 
+I did a partial land survey of my backyard. 
 
 <img class="myImages" id="myImg" src="/assets/images/IncBacSurv-2.png" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
