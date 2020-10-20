@@ -11,7 +11,7 @@ permalink: /portfolio/bkyrds/
 
 I did a partial survey of my backyard. 
 
-<img class="myImages" id="myImg" src="/assets/images/IncBacSurv.png" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
+<img class="myImages" id="myImg" src="/assets/images/IncBacSurv-2.png" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
 
 Obviously, I couldn't use an autolevel or a total station, so instead I used an ordinary level, a measuring tape, and pin flags.
