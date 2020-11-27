@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 #### About
-I'm a second-year Civil Engineering student at the University of Waterloo. Currently, I'm seeking a co-op position for January-April 2021.
+I'm a second-year Civil Engineering student at the University of Waterloo. 
 
 [Click here to download my résumé.](/SiteResume.pdf)
 
