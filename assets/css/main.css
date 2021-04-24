@@ -888,6 +888,6 @@
 	  display: grid;
 	  text-align: center;
 	}
-	.read-more label:hover {
+	.read-more label:hover ~ label {
 		color: #167dbb;
 }
