@@ -13,7 +13,7 @@
     <div class="read-more">
         {{ content | split:'<!--more-->' | last }}
     </div>
-    <label for="{{ page.url }}" class="read-more-trigger"></label>
+  <a href=""><label for="{{ page.url }}" class="read-more-trigger"></label></a>
 {% else %}
     {{ content }}
 {% endif %}
