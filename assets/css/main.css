@@ -848,8 +848,7 @@
 		}
 
 /* Read More Button (https://jonnylangefeld.com/blog/how-to-add-a-read-more-button-that-doesnt-suck-to-your-jekyll-blog) */
-	
-	#read-more {
+
 .read-more {
     opacity: 0;
     max-height: 0;
@@ -888,5 +887,4 @@
   font-weight: 500;
   display: grid;
   text-align: center;
-}
 }
