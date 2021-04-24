@@ -879,10 +879,10 @@
 	.read-more-trigger {
 	  cursor: pointer;
 	  padding: 1em .5em;
-	  color: #414f57;
+	  color: #c8cccf;
 	  font-size: .9em;
 	  line-height: 2;
-	  border: 1px solid #414f57;
+	  border: 1px solid #c8cccf;
 	  border-radius: .25em;
 	  font-weight: 500;
 	  display: grid;
