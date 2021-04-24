@@ -4,10 +4,9 @@ title: About
 permalink: /test/
 ---
 
-#### About
-I'm a second-year Civil Engineering student at the University of Waterloo. 
+#### Test
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
 <!--more-->
 
-[Click here to download my résumé.](/SiteResume.pdf)
-
-Outside of school and the endless job search, I enjoy cooking, playing a weird variety of video games, and adding random bits of HTML/&#8203;CSS/&#8203;JS to perfectly good website templates.
+Curabitur pulvinar urna odio, vel varius neque imperdiet ac.
