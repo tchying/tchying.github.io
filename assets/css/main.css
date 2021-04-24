@@ -888,6 +888,9 @@
 	  display: grid;
 	  text-align: center;
 	}
+	.read-more:hover input:checked ~ label{
+ 	 background:#ffffff;
+	}
 	.read-more label:hover ~ input:checked ~ label {
 		color: #167dbb;
 		background: #666;
