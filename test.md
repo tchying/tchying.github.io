@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: pages-img
 title: About
 permalink: /test/
 ---
