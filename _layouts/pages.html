@@ -9,11 +9,11 @@
     <div>
         {{ content | split:'<!--more-->' | first }}
     </div>
-    <input type="checkbox" class="read-more-state" id="{{ url }}"/>
+    <input type="checkbox" class="read-more-state" id="{{ page.url }}"/>
     <div class="read-more">
         {{ content | split:'<!--more-->' | last }}
     </div>
-    <label for="{{ url }}" class="read-more-trigger"></label>
+    <label for="{{ page.url }}" class="read-more-trigger"></label>
 {% else %}
     {{ content }}
 {% endif %}
