@@ -888,15 +888,3 @@
 	  display: grid;
 	  text-align: center;
 	}
-	.read-more:hover input:checked ~ label{
- 	 background:#ffffff;
-	}
-	.read-more input:checked ~ label,
-	.read-more label:hover ~ label,
-	.read-morelabel:hover,
-	.read-more input:checked ~ label:hover ~ label,
-	.read-more input:checked ~ label:hover,
-	.read-more label:hover ~ input:checked ~ label {
-		color: #167dbb;
-		background: #666;
-}
