@@ -262,7 +262,7 @@
 
 	/* https://stackoverflow.com/questions/3359390/how-can-i-activate-a-css-style-for-a-label-when-hovering-over-the-associated-che */
 	label:hover, label:active, input:hover+label, input:active+label {
-   	 background:yellow;
+   		color: #167dbb;
 	}
 
 	input[type="text"],
@@ -884,10 +884,10 @@
 	.read-more-trigger {
 	  cursor: pointer;
 	  padding: 1em .5em;
-	  color: #167dbb;
+	  color: #414f57;
 	  font-size: .9em;
 	  line-height: 2;
-	  border: 1px solid #167dbb;
+	  border: 1px solid #414f57;
 	  border-radius: .25em;
 	  font-weight: 500;
 	  display: grid;
