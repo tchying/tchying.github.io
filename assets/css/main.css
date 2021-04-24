@@ -263,6 +263,7 @@
 	/* https://stackoverflow.com/questions/3359390/how-can-i-activate-a-css-style-for-a-label-when-hovering-over-the-associated-che */
 	label:hover, label:active, input:hover+label, input:active+label {
    		color: #167dbb;
+		border-color: #167dbb;
 	}
 
 	input[type="text"],
