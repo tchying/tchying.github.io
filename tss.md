@@ -11,6 +11,8 @@ permalink: /portfolio/tss/
 
 As part of a project in my Earth Engineering course (CIVE 153), I created a spreadsheet that calculated the total stress at 155 points above, inside, and below an earthen embankment. 
 
+<!--more-->
+
 <!-- <img... id... src... alt="Caption goes here." style...> -->
 <img class="myImages" id="myImg" src="/assets/images/Cross-Section.png" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
