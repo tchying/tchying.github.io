@@ -879,15 +879,15 @@
 	.read-more-trigger {
 	  cursor: pointer;
 	  padding: 1em .5em;
-	  color: #c8cccf;
+	  color: #313f47;
 	  font-size: .9em;
 	  line-height: 2;
-	  border: 1px solid #c8cccf;
+	  border: 1px solid #313f47;
 	  border-radius: .25em;
 	  font-weight: 500;
 	  display: grid;
 	  text-align: center;
 	}
-	read-more:hover {
+	.read-more:hover {
 		border-color: #167dbb;
 	}
