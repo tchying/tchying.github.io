@@ -260,6 +260,11 @@
 		margin: 0 0 0.75em 0;
 	}
 
+	/* https://stackoverflow.com/questions/3359390/how-can-i-activate-a-css-style-for-a-label-when-hovering-over-the-associated-che */
+	label:hover, label:active, input:hover+label, input:active+label {
+   	 background:yellow;
+	}
+
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
