@@ -9,7 +9,7 @@ permalink: /portfolio/bkyrds/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 #### Backyard Survey
 
-I did a partial land survey of my backyard during the summer of 2020.
+I did a partial land survey of my backyard.
 
 <!--more-->
 
@@ -38,6 +38,6 @@ Each point's location (x-y) was defined by their position relative to a point ne
 <img class="myImages" id="myImg" src="/assets/images/Spreadsheet-Points.png" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
 
-(Page remains under construction)
+From there, I followed the course material from my first year Civil Engineering Concepts course to generate and edit the surface, change linetypes and hatching, and label elevations.
 
 <script src="/assets/js/modal.js"></script> 
