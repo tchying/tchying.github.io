@@ -26,7 +26,7 @@ I also taped a laser pointer to a tripod.
 <img class="myImages" id="myImg" src="/assets/images/Setup.jpg" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
 
-Flags were placed in a grid, two feet apart. Although everything else was measured using metric units, two feet was convienent as the level was exactly four feet in length. Where two feet wasn't an option, due to various obstructions in my backyard, one foot intervals were used instead. The positions of other features (the shed, deck, and house itself) were measured with the measuring tape.
+Flags were placed in a grid, two feet apart. Although everything else was measured using metric units, two feet was convienent as the level was exactly four feet in length. Where two feet wasn't an option, due to various obstructions in my backyard, one foot intervals were used instead. The positions of other features (the shed, deck, and house itself) were found with the measuring tape.
 
 <img class="myImages" id="myImg" src="/assets/images/Flags.jpg" style="width:100%;height:100%;max-width:392px;display:block;margin-left:auto;margin-right:auto;">
 <p style="font-size: 0.75em;text-align:center;">Click image to enlargen.</p>
