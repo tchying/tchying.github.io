@@ -5,7 +5,7 @@ permalink: /acknowledgements/
 ---
 
 #### Acknowledgements
-The following resources, as well as many others that I can't find in my search history any more, were used in the development of this website.
+The following resources, as well as many others that I can no longer track down in my search history, were used in the development of this website.
 <ul class="body">
   <li><a href="https://jonnylangefeld.com/blog/how-to-add-a-read-more-button-that-doesnt-suck-to-your-jekyll-blog" target="_blank">Read More Button</a></li>
   <li><a href="https://stackoverflow.com/questions/3359390/how-can-i-activate-a-css-style-for-a-label-when-hovering-over-the-associated-che" target="_blank">Label Highlighting</a></li>
