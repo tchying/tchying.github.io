@@ -1,8 +1,10 @@
 ---
 layout: pages
-title: Portfolio - Analysis and Video Deliverables for 2021 CNSBC
+title: Portfolio - Analysis and Video Deliverables for CNSBC 2021
 permalink: /portfolio/cnsbc21/
 ---
 
-<h4>Analysis&#8203and&#8203Video&#8203Deliverables&#8203for&#8203CNSBC&#8203 2021</h4>
+#### Analysis and
+#### Video Deliverables
+#### for CNSBC 2021
 Results for the 2021 Canadian National Steel Bridge Competition have not been released yet.
