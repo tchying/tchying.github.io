@@ -8,6 +8,6 @@ permalink: /portfolio/election43/
 #### Data Visualization for the
 #### 2019 Canadian federal election
 
-Page under construction. For now, enjoy [this.](/cLayout.pdf)
+Page under construction. ArcGIS is being uncooperative. For now, enjoy [this first revision.](/cLayout.pdf) 
 
 <script src="/assets/js/modal.js"></script> 
