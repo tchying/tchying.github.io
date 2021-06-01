@@ -5,8 +5,8 @@ permalink: /portfolio/election43/
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-#### Data Visualization for the
-#### 2019 Canadian federal election
+#### Visualizing the 2019 Canadian
+#### federal election
 
 Page under construction. ArcGIS is being uncooperative. For now, enjoy [this first revision.](/cLayout.pdf) 
 
