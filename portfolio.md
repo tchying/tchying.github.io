@@ -13,7 +13,8 @@ permalink: /portfolio/
 </ul>
 
 2020
+<ul class="body">
   <li><a href="/portfolio/bkyrds/">Backyard Survey</a></li>
   <li><a href="/portfolio/tss/">Total Stress Spreadsheet</a></li>
   <li><a href="/portfolio/bdrmrd/">Bedroom Redesign</a></li>
-
+</ul>
