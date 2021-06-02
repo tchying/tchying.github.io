@@ -5,7 +5,6 @@ permalink: /portfolio/
 ---
 
 #### Portfolio
-Here are some things that I have worked on.
 
 <ul class="body">
   <li><a href="/portfolio/cnsbc21/">Analysis and Video Deliverables for 2021 CNSBC</a></li>
