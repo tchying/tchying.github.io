@@ -1,7 +1,7 @@
 ---
 layout: pages-img
 title: Portfolio - 
-permalink: /portfolio/election43/
+permalink: /portfolio/2019cdnfe/
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
