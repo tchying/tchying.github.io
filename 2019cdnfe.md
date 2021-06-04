@@ -17,6 +17,8 @@ I used ArcGIS Pro to produce a map that colour-coded electoral districts by the 
 
 Dark blue ridings, with high majority percentages and voter turnout, were solidly in favour of the winning candidate, whereas white ridings, with slim majorities and low turnout, could easily have swung in a different candidate's favour if more electors chose to vote.
 
+<!--to do: thresholds and rationale -->
+
 The following maps depict the results in major metropolitan areas.
 
 Toronto
