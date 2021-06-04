@@ -1,6 +1,6 @@
 ---
 layout: pages-img
-title: Portfolio - 
+title: Portfolio - Visualizing the 2019 Canadian Federal Election
 permalink: /portfolio/2019cdnfe/
 ---
 
