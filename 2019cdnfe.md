@@ -17,9 +17,9 @@ I used ArcGIS Pro to produce a map that colour-coded electoral districts by the 
 
 Dark blue ridings, with high majority percentages and voter turnout, were solidly in favour of the winning candidate, whereas white ridings, with slim majorities and low turnout, could easily have swung in a different candidate's favour if more electors chose to vote.
 
-I defined the thresholds between low, medium, and high colours manually, using the justification below, as I wasn't sure which mathematically defined method was the best of the four available in ArcGIS.
+I defined the thresholds between low, medium, and high colours manually, using the justification below, as I wasn't sure which mathematically-defined method was the best of the four available in ArcGIS.
 
-A low majority percentage was defined as 1.9% or less. All ridings below this threshold were decided by 1000 votes or less, save for King—Vaughan (1141 votes). Similarily, Nunavut (10% majority percentage) was the only riding decided by 1000 votes or less with a majority percentage greater than 1.9%. A high majority percentage was defined as greater than 18.4%, the median value of all ridings. The mean majority percentage (22.1%) was heavily skewed due to the ridings in the Prairies, many of which had majority percentages of over 60%.
+A low majority percentage was defined as 1.9% or less. All ridings below this threshold were decided by 1000 votes or less, save for King—Vaughan (1141 votes). Similarly, Nunavut (10% majority percentage) was the only riding decided by 1000 votes or less with a majority percentage greater than 1.9%. A high majority percentage was defined as greater than 18.4%, the median value of all ridings. The mean majority percentage (22.1%) was heavily skewed due to the ridings in the Prairies, many of which had majority percentages of over 60%.
 
 As the difference between mean and median voter turnout was minimal, I chose to define low voter turnout as less than 61.3%, one standard deviation below the mean of 66.9% (high voter turnout). 
 
