@@ -17,5 +17,5 @@ permalink: /portfolio/
 <ul class="body"> --->
   <li><a href="/portfolio/bkyrds/">Backyard Survey</a></li>
 <!---   <li><a href="/portfolio/tss/">Total Stress Spreadsheet</a></li> --->
-<!---   <li><a href="/portfolio/bdrmrd/">Bedroom Redesign</a></li> --->
+  <li><a href="/portfolio/bdrmrd/">Bedroom Redesign</a></li>
 </ul>
