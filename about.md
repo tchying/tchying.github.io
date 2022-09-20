@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 #### About
-I'm a third-year Civil Engineering student at the University of Waterloo. 
+I'm a third-year Civil Engineering student at the University of Waterloo. Currently, I'm looking for a Winter 2023 co-op position.
 
 [Click here to download my résumé.](/siteResume.pdf){:target="_blank"}
 
