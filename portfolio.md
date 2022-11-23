@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 <!--- 2022 --->
 <ul class="body">
-  <li><a href="/portfolio/wkrpt/">Bridge Rehabilitation Work Term Report</a></li>
+  <li><a href="/WKRPT_redacted.pdf">Bridge Rehabilitation Work Term Report</a></li>
 <!---</ul>
 
 2021
