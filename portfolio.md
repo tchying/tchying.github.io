@@ -6,6 +6,11 @@ permalink: /portfolio/
 
 #### Portfolio
 
+<!--- 2022 --->
+<ul class="body">
+  <li><a href="/portfolio/wkrpt/">Bridge Rehabilitation Work Term Report</a></li>
+</ul>
+
 <!--- 2021 --->
 <ul class="body">
   <li><a href="/portfolio/sbdvsn/">Subdivision Plan</a></li>
