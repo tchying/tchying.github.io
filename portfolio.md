@@ -9,10 +9,10 @@ permalink: /portfolio/
 <!--- 2022 --->
 <ul class="body">
   <li><a href="/portfolio/wkrpt/">Bridge Rehabilitation Work Term Report</a></li>
-</ul>
+<!---</ul>
 
-<!--- 2021 --->
-<ul class="body">
+2021
+<ul class="body"> --->
   <li><a href="/portfolio/sbdvsn/">Subdivision Plan</a></li>
   <li><a href="/portfolio/2019cdnfe/">Visualizing the 2019 Canadian federal election</a></li>
 <!---   <li><a href="/portfolio/cnsbc21/">Analysis and Video Deliverables for 2021 CNSBC</a></li>
