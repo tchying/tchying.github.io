@@ -11,9 +11,16 @@ permalink: /portfolio/wkrpt/
 #### Bridge Rehabilitation
 #### Work Term Report
 
-This work term report was based on a project I contributed to during a previous work term. It proposes and evaluates possible rehabilitation options for a highway bridge. The entirety of this report was written by me, with guidance from my colleagues and supervisor. Of course, no part of my report was provided to the client. The report describes the calculation process in greater detail in order to fulfill the engineering design and analysis requirements of the report. As well, names and some dates in the report have been altered to maintain client privacy.
+This work term report was based on a project I contributed to during a previous work term. It proposes and evaluates possible rehabilitation options for a highway bridge. The entirety of this report was prepared by me, with guidance from my colleagues and supervisor. 
 
-A selection of eight pages is presented below.
+Things to note: 
+<ul class="body">
+  <li> No part of this report was integrated into the actual report provided to the client; it is merely attempt to apply my engineering knowledge to a real world problem in a particular format.
+  <li> The report describes the calculation process in greater detail than would be typical for a report provided to a client. This is to fulfill the engineering design and analysis requirements of a work term report.
+  <li> Names, locations, and dates in the report have been altered to maintain client privacy.
+  <li> Only a selection of eight pages is presented below.
+</ul>
+
 
 <!--more-->
 
