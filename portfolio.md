@@ -6,21 +6,23 @@ permalink: /portfolio/
 
 #### Portfolio
 
-<!--- 2022 --->
+There's nothing to see here...
+<!--- 2022
 <ul class="body">
   <li><a href="/portfolio/wkrpt/">Bridge Rehabilitation Work Term Report</a></li>
-<!---</ul>
+</ul>
 
 2021
-<ul class="body"> --->
-<!---  <li><a href="/portfolio/sbdvsn/">Subdivision Plan</a></li> --->
+<ul class="body">
+  <li><a href="/portfolio/sbdvsn/">Subdivision Plan</a></li>
   <li><a href="/portfolio/2019cdnfe/">Visualizing the 2019 Canadian federal election</a></li>
-<!---   <li><a href="/portfolio/cnsbc21/">Analysis and Video Deliverables for 2021 CNSBC</a></li>
+   <li><a href="/portfolio/cnsbc21/">Analysis and Video Deliverables for 2021 CNSBC</a></li>
 </ul>
 
 2020
-<ul class="body"> --->
+<ul class="body"> 
   <li><a href="/portfolio/bkyrds/">Backyard Survey</a></li>
-<!---   <li><a href="/portfolio/tss/">Total Stress Spreadsheet</a></li> --->
-<!---  <li><a href="/portfolio/bdrmrd/">Bedroom Redesign</a></li> --->
+   <li><a href="/portfolio/tss/">Total Stress Spreadsheet</a></li>
+  <li><a href="/portfolio/bdrmrd/">Bedroom Redesign</a></li> 
 </ul>
+--->
